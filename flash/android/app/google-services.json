@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306430633817",
+    "project_id": "flash-chat-76c2a",
+    "storage_bucket": "flash-chat-76c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306430633817:android:fdd2b990f6537e6b254e48",
+        "android_client_info": {
+          "package_name": "com.Rittik.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306430633817-k55gdi140d3u510uk5k5u6cv02082r4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYMO6zEpQVawvtstslmB74tgiRB7Oj90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306430633817-k55gdi140d3u510uk5k5u6cv02082r4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
