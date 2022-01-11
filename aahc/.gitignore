@@ -47,4 +47,5 @@ app.*.map.json
 
 
 lib/video/services/api_service.dart
+lib/video/
 .vscode/
