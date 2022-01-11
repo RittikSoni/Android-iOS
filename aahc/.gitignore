@@ -46,6 +46,6 @@ app.*.map.json
 /android/app/release
 
 
-lib/video/services/api_service.dart
-lib/video/
+# lib/video/services/api_service.dart
+lib/video
 .vscode/
